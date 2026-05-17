@@ -40,5 +40,3 @@ This project performs exploratory data analysis on the NYC Taxi dataset using Py
 ### 2. Using Jupyter Notebook (Local) 
 ```bash
 pip install notebook
-pip install notebook
-jupyter notebook
